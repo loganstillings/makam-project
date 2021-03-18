@@ -1,0 +1,8806 @@
+<score-partwise version="3.0">
+  <work>
+    <work-title>Nas&#305;l Ge&#231;ti Habersiz...</work-title>
+  </work>
+  <identification>
+    <creator type="composer">Teoman Alpay</creator>
+    <creator type="poet">Nihat A&#231;ar</creator>
+    <encoding>
+      <encoder>Burak Uyar</encoder>
+      <software>https://github.com/burakuyar/MusicXMLConverter</software>
+    </encoding>
+    <relation>http://musicbrainz.org/work/3e3b0e6c-1c6f-4a45-8c69-76c8688edc75</relation>
+  </identification>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Music</part-name>
+    </score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="1-0">
+      <direction placement="above">
+        <direction-type>
+          <metronome>
+            <beat-unit>quarter</beat-unit>
+            <per-minute>1153</per-minute>
+          </metronome>
+        </direction-type>
+        <direction-type>
+          <words default-y="35">Makam: Hicaz, Form: &#350;ark&#305;, Usul: Sem&#226;&#238; </words>
+        </direction-type>
+        <sound tempo="1153" />
+      </direction>
+      <attributes>
+        <divisions>96</divisions>
+        <time>
+          <beats>3</beats>
+          <beat-type>4</beat-type>
+        </time>
+      </attributes>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric name="ARANA&#286;ME">
+          <text>ARANA&#286;ME</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="2-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="3-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="4-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="5-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="6-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="7-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="8-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="9-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="10-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="11-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="12-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="13-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="14-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="15-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="16-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="17-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric name="ARANA&#286;ME">
+          <text>ARANA&#286;ME</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="18-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="19-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="20-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="21-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="22-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="23-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="24-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="25-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="26-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="27-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="28-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="29-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="30-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="31-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="32-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="33-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Na</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>s&#305;l </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ge&#231;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="34-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ti </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ha</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ber</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="35-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>siz  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="36-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="37-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>single</syllabic>
+          <text>O </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>g&#252;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ze</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="38-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>lim </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>y&#305;l</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="39-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>r&#305;m  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="40-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="41-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Ba</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>zen </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>g&#246;z</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="42-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ya</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>&#351;&#305; </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ol</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="43-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>du  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="44-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="45-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Ba</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>zen </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>i&#231;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="46-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>li </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>bir </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>&#351;ar</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="47-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>k&#305;  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="48-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="49-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>single</syllabic>
+          <text>Her </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>&#226;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>n&#305;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="50-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>n&#305; </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+0.5</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>quarter-sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ek</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>sik</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="51-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>siz  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="52-0">
+      <attributes />
+      <note>
+        
+        <rest />
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="53-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>single</syllabic>
+          <text>G&#252;n </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>gi</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>bi </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="54-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ha</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>t&#305;r</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="55-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>r&#305;m  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="56-0">
+      <attributes />
+      <note>
+        
+        <rest />
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="57-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Du</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>dak</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="58-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>r&#305;m</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>da </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>tu</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="59-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>zu  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="60-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="61-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>&#304;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>&#231;im</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>de </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="62-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>du</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>rur </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>a&#351;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="63-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>k&#305;n  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="64-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="65-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>single</syllabic>
+          <text>Her </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>&#226;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>n&#305;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="66-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>n&#305; </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+0.5</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>quarter-sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ek</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>sik</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="67-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>siz  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="68-0">
+      <attributes />
+      <note>
+        
+        <rest />
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="69-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>single</syllabic>
+          <text>G&#252;n </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>gi</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>bi </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="70-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ha</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>t&#305;r</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="71-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>r&#305;m  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="72-0">
+      <attributes />
+      <note>
+        
+        <rest />
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="73-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Du</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>dak</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="74-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>r&#305;m</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>da </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>tu</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="75-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>zu  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="76-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="77-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>&#304;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>&#231;im</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>de </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="78-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>du</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>rur </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>a&#351;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="79-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>k&#305;n  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="80-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="81-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Ha</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ni </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="82-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>o </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="83-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>sa&#231;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>r&#305;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="84-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>na  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="85-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>single</syllabic>
+          <text>Ta&#231; </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>yap</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>t&#305;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="86-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>&#287;&#305;m </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+0.5</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>quarter-sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>&#231;i</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>&#231;ek</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="87-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>ler  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="88-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="89-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Ha</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ni </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="90-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>o </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="91-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>g&#252;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>zel </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>g&#246;z</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="92-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>l&#252;  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="93-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Cey</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>lan</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="94-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>r&#305;n </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>p&#305;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>na</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="95-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>r&#305;  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="96-0">
+      <attributes />
+      <note>
+        
+        <rest />
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="97-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Ha</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ni </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ku&#351;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="98-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>lar </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>&#287;a&#231;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="99-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>lar  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="100-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="101-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Bin</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>bir </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>renk</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="102-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>li </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>&#231;i</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>&#231;ek</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="103-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>ler  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="104-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="105-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Na</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>s&#305;l </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ya</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="106-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ka</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>m&#305;&#351;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="107-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>t&#305;k  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="108-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="109-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Sa&#231;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>r&#305;n</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="110-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>dan </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ba</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>h&#226;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="111-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>r&#305;  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="112-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="113-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Ha</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ni </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ku&#351;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="114-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>lar </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>&#287;a&#231;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="115-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>lar  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="116-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="117-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Bin</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>bir </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>renk</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="118-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>li </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>&#231;i</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>&#231;ek</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="119-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>ler  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="120-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="121-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Na</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>s&#305;l </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ya</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="122-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ka</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>m&#305;&#351;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="123-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>t&#305;k  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="124-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="125-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Sa&#231;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>r&#305;n</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="126-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>dan </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ba</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>h&#226;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="127-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>r&#305;  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="128-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="129-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric name="ARANA&#286;ME">
+          <text>ARANA&#286;ME</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="130-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="131-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="132-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="133-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="134-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="135-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="136-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="137-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="138-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="139-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="140-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="141-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="142-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="143-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="144-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="145-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric name="ARANA&#286;ME">
+          <text>ARANA&#286;ME</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="146-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="147-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="148-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="149-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="150-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="151-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="152-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="153-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="154-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="155-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="156-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="157-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="158-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="159-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="160-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="161-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Na</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>s&#305;l </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ge&#231;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="162-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ti </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ha</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ber</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="163-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>siz  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="164-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="165-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>single</syllabic>
+          <text>O </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>g&#252;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ze</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="166-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>lim </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>y&#305;l</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="167-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>r&#305;m  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="168-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="169-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Ba</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>zen </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>g&#246;z</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="170-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ya</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>&#351;&#305; </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ol</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="171-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>du  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="172-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="173-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Ba</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>zen </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>i&#231;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="174-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>li </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>bir </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>&#351;ar</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="175-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>k&#305;  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="176-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="177-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>single</syllabic>
+          <text>Her </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>&#226;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>n&#305;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="178-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>n&#305; </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+0.5</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>quarter-sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ek</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>sik</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="179-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>siz  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="180-0">
+      <attributes />
+      <note>
+        
+        <rest />
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="181-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>single</syllabic>
+          <text>G&#252;n </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>gi</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>bi </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="182-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ha</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>t&#305;r</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="183-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>r&#305;m  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="184-0">
+      <attributes />
+      <note>
+        
+        <rest />
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="185-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Du</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>dak</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="186-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>r&#305;m</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>da </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>tu</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="187-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>zu  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="188-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="189-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>&#304;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>&#231;im</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>de </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="190-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>du</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>rur </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>a&#351;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="191-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>k&#305;n  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="192-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="193-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>single</syllabic>
+          <text>Her </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>&#226;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>n&#305;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="194-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>n&#305; </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+0.5</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>quarter-sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ek</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>sik</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="195-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>siz  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="196-0">
+      <attributes />
+      <note>
+        
+        <rest />
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="197-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>single</syllabic>
+          <text>G&#252;n </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>gi</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>bi </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="198-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ha</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>t&#305;r</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="199-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>r&#305;m  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="200-0">
+      <attributes />
+      <note>
+        
+        <rest />
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="201-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Du</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>dak</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="202-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>r&#305;m</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>da </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>tu</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="203-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>zu  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="204-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="205-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>&#304;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>&#231;im</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>de </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="206-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>du</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>rur </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>a&#351;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="207-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>k&#305;n  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="208-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="209-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Ha</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ni </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="210-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>o </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="211-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>sa&#231;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>r&#305;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="212-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>na  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="213-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>single</syllabic>
+          <text>Ta&#231; </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>yap</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>t&#305;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="214-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>&#287;&#305;m </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+0.5</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>quarter-sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>&#231;i</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>&#231;ek</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="215-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>ler  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="216-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="217-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Ha</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ni </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="218-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>o </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="219-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>g&#252;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>zel </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>g&#246;z</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="220-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>l&#252;  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="221-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Cey</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>lan</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="222-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>r&#305;n </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>p&#305;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>na</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="223-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>r&#305;  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="224-0">
+      <attributes />
+      <note>
+        
+        <rest />
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric name="SAZ">
+          <text>SAZ</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text>.</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="225-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Ha</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ni </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ku&#351;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="226-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>lar </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>&#287;a&#231;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="227-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>lar  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="228-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="229-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Bin</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>bir </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>renk</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="230-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>li </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>&#231;i</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>&#231;ek</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="231-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>ler  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="232-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="233-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Na</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>s&#305;l </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ya</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="234-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ka</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>m&#305;&#351;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="235-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>t&#305;k  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="236-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="237-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Sa&#231;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>r&#305;n</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="238-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>dan </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ba</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>h&#226;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="239-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>r&#305;  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="240-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="241-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Ha</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ni </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ku&#351;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="242-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>lar </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>&#287;a&#231;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="243-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>lar  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="244-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="245-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Bin</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>bir </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>renk</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="246-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>li </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>&#231;i</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>&#231;ek</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="247-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>ler  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="248-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="249-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Na</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>s&#305;l </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ya</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="250-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>ka</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>m&#305;&#351;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="251-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>t&#305;k  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="252-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="253-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Sa&#231;</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>r&#305;n</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="254-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>dan </text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>slash-flat</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ba</text>
+        </lyric>
+      </note>
+      <note>
+        
+        <pitch>
+          <step>C</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>h&#226;</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="255-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>288</duration>
+        <type>half</type>
+        <dot />
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>r&#305;  </text>
+          <end-line />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="256-0">
+      <attributes />
+      <note>
+        
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>192</duration>
+        <type>half</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+      <note>
+        
+        <rest />
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text />
+        </lyric>
+      </note>
+    </measure>
+    <measure number="257-0">
+      <attributes />
+    </measure>
+  </part>
+</score-partwise>
