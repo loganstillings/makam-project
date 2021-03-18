@@ -1,6 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
   <work>
-    <work-title>Gel K&#252;lbe-I Ahz&#226;n&#305;ma</work-title>
+    <work-title>Gel Külbe-I Ahzânıma</work-title>
   </work>
   <identification>
     <creator type="composer">?</creator>
@@ -26,33 +28,41 @@
           </metronome>
         </direction-type>
         <direction-type>
-          <words default-y="35">Makam: Sab&#226;, Form: &#350;ark&#305;, Usul: N&#238;msofyan </words>
+          <words default-y="35">Makam: Sabâ, Form: Şarkı, Usul: Nîmsofyan </words>
         </direction-type>
-        <sound tempo="60" />
+        <sound tempo="60"/>
       </direction>
       <attributes>
         <divisions>96</divisions>
+        <key>
+          <key-step>B</key-step>
+          <key-alter>-2</key-alter>
+          <key-accidental>quarter-flat</key-accidental>
+          <key-step>D</key-step>
+          <key-alter>-3</key-alter>
+          <key-accidental>slash-flat</key-accidental>
+        </key>
         <time>
           <beats>2</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
       <note>
-        
+        <!--symbtr_txt_note_index 2-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric name="VOCAL_SECTION">
           <syllabic>single</syllabic>
           <text>Gel </text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 3-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -62,11 +72,11 @@
         <type>16th</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 4-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -75,28 +85,28 @@
         <type>quarter</type>
         <lyric>
           <syllabic>begin</syllabic>
-          <text>k&#252;l</text>
+          <text>kül</text>
         </lyric>
       </note>
     </measure>
     <measure number="2-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 5-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>end</syllabic>
           <text>be </text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 6-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -110,7 +120,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 7-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -124,9 +134,9 @@
       </note>
     </measure>
     <measure number="3-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 8-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -135,11 +145,11 @@
         <type>quarter</type>
         <lyric>
           <syllabic>end</syllabic>
-          <text>z&#226;</text>
+          <text>zâ</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 9-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -148,11 +158,11 @@
         <type>eighth</type>
         <accidental>slash-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 10-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -161,14 +171,14 @@
         <type>eighth</type>
         <accidental>slash-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="4-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 11-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -176,11 +186,11 @@
         <duration>96</duration>
         <type>quarter</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 12-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -188,15 +198,15 @@
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <accidental>quarter-flat</accidental>
         <lyric>
           <syllabic>begin</syllabic>
-          <text>n&#305;</text>
+          <text>nı</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 13-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -210,9 +220,9 @@
       </note>
     </measure>
     <measure number="5-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 14-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -226,23 +236,23 @@
       </note>
     </measure>
     <measure number="6-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 15-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>begin</syllabic>
           <text>ser</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 16-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -252,24 +262,24 @@
         <type>16th</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 17-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 18-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -278,28 +288,28 @@
         <type>16th</type>
         <accidental>slash-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="7-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 19-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>end</syllabic>
           <text>vi </text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 20-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -313,7 +323,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 21-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -322,14 +332,14 @@
         <type>quarter</type>
         <lyric>
           <syllabic>end</syllabic>
-          <text>v&#226;</text>
+          <text>vâ</text>
         </lyric>
       </note>
     </measure>
     <measure number="8-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 22-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -339,11 +349,11 @@
         <type>quarter</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 23-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -352,14 +362,14 @@
         <type>quarter</type>
         <lyric>
           <syllabic>single</syllabic>
-          <text>n&#305;m </text>
+          <text>nım </text>
         </lyric>
       </note>
     </measure>
     <measure number="9-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 24-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -368,11 +378,11 @@
         <type>quarter</type>
         <lyric>
           <syllabic>begin</syllabic>
-          <text>c&#226;</text>
+          <text>câ</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 25-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -383,15 +393,15 @@
         <accidental>quarter-flat</accidental>
         <lyric>
           <syllabic>end</syllabic>
-          <text>n&#305;m  </text>
-          <end-line />
+          <text>nım  </text>
+          <end-line/>
         </lyric>
       </note>
     </measure>
     <measure number="10-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 26-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -404,7 +414,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 27-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -420,23 +430,23 @@
       </note>
     </measure>
     <measure number="11-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 28-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>single</syllabic>
           <text>me </text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 29-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -451,7 +461,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 30-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -465,23 +475,23 @@
       </note>
     </measure>
     <measure number="12-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 31-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>begin</syllabic>
           <text>ben</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 32-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -491,24 +501,24 @@
         <type>16th</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 33-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 34-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -517,14 +527,14 @@
         <type>16th</type>
         <accidental>slash-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="13-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 35-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -537,7 +547,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 36-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -545,7 +555,7 @@
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <accidental>quarter-flat</accidental>
         <lyric>
           <syllabic>single</syllabic>
@@ -553,7 +563,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 37-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -561,14 +571,14 @@
         <duration>24</duration>
         <type>16th</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="14-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 38-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -584,23 +594,23 @@
       </note>
     </measure>
     <measure number="15-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 39-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>end</syllabic>
-          <text>z&#251;</text>
+          <text>zû</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 40-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -610,24 +620,24 @@
         <type>16th</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 41-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 42-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -636,14 +646,14 @@
         <type>16th</type>
         <accidental>slash-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="16-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 43-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -656,7 +666,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 44-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -664,7 +674,7 @@
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <accidental>quarter-flat</accidental>
         <lyric>
           <syllabic>begin</syllabic>
@@ -672,7 +682,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 45-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -680,14 +690,14 @@
         <duration>24</duration>
         <type>16th</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="17-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 46-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -700,7 +710,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 47-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -710,11 +720,11 @@
         <lyric>
           <syllabic>single</syllabic>
           <text>ma  </text>
-          <end-line />
+          <end-line/>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 48-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -724,11 +734,11 @@
         <type>16th</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 49-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -736,11 +746,11 @@
         <duration>24</duration>
         <type>16th</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 50-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -750,14 +760,14 @@
         <type>16th</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="18-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 51-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -765,14 +775,14 @@
         <duration>192</duration>
         <type>half</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="19-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 52-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -786,7 +796,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 53-->
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -795,30 +805,30 @@
         <type>eighth</type>
         <lyric>
           <syllabic>end</syllabic>
-          <text>na&#287;</text>
+          <text>nağ</text>
         </lyric>
       </note>
       <note>
-        
-        <rest />
+        <!--symbtr_txt_note_index 54-->
+        <rest/>
         <duration>96</duration>
         <type>quarter</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="20-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 55-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <accidental>slash-flat</accidental>
         <lyric>
           <syllabic>begin</syllabic>
@@ -826,7 +836,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 56-->
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -835,11 +845,11 @@
         <type>16th</type>
         <lyric>
           <syllabic>end</syllabic>
-          <text>na&#287;</text>
+          <text>nağ</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 57-->
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -853,23 +863,23 @@
       </note>
     </measure>
     <measure number="21-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 58-->
         <pitch>
           <step>E</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>begin</syllabic>
           <text>kal</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 59-->
         <pitch>
           <step>F</step>
           <octave>5</octave>
@@ -877,11 +887,11 @@
         <duration>24</duration>
         <type>16th</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 60-->
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -889,14 +899,14 @@
         <duration>96</duration>
         <type>quarter</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="22-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 61-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -905,11 +915,11 @@
         <type>quarter</type>
         <accidental>slash-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 62-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -923,9 +933,9 @@
       </note>
     </measure>
     <measure number="23-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 63-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -936,11 +946,11 @@
         <accidental>quarter-flat</accidental>
         <lyric>
           <syllabic>single</syllabic>
-          <text>d&#305; </text>
+          <text>dı </text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 64-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -949,37 +959,37 @@
         <type>eighth</type>
         <lyric>
           <syllabic>single</syllabic>
-          <text>hi&#231; </text>
+          <text>hiç </text>
         </lyric>
       </note>
       <note>
-        
-        <rest />
+        <!--symbtr_txt_note_index 65-->
+        <rest/>
         <duration>96</duration>
         <type>quarter</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="24-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 66-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>begin</syllabic>
           <text>ta</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 67-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -989,24 +999,24 @@
         <type>16th</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 68-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 69-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1015,28 +1025,28 @@
         <type>16th</type>
         <accidental>slash-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="25-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 70-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>end</syllabic>
           <text>bu </text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 71-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1046,11 +1056,11 @@
         <accidental>slash-flat</accidental>
         <lyric>
           <syllabic>begin</syllabic>
-          <text>t&#252;</text>
+          <text>tü</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 72-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1059,14 +1069,14 @@
         <type>quarter</type>
         <lyric>
           <syllabic>end</syllabic>
-          <text>v&#226;</text>
+          <text>vâ</text>
         </lyric>
       </note>
     </measure>
     <measure number="26-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 73-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1076,11 +1086,11 @@
         <type>quarter</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 74-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1089,15 +1099,15 @@
         <type>quarter</type>
         <lyric>
           <syllabic>single</syllabic>
-          <text>n&#305;m  </text>
-          <end-line />
+          <text>nım  </text>
+          <end-line/>
         </lyric>
       </note>
     </measure>
     <measure number="27-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 75-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1110,7 +1120,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 76-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1126,23 +1136,23 @@
       </note>
     </measure>
     <measure number="28-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 77-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>single</syllabic>
           <text>me </text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 78-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1157,7 +1167,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 79-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1171,23 +1181,23 @@
       </note>
     </measure>
     <measure number="29-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 80-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>begin</syllabic>
           <text>ben</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 81-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1197,24 +1207,24 @@
         <type>16th</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 82-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 83-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1223,14 +1233,14 @@
         <type>16th</type>
         <accidental>slash-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="30-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 84-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1243,7 +1253,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 85-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1251,7 +1261,7 @@
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <accidental>quarter-flat</accidental>
         <lyric>
           <syllabic>single</syllabic>
@@ -1259,7 +1269,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 86-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1267,14 +1277,14 @@
         <duration>24</duration>
         <type>16th</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="31-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 87-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1290,23 +1300,23 @@
       </note>
     </measure>
     <measure number="32-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 88-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>end</syllabic>
-          <text>z&#251;</text>
+          <text>zû</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 89-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1316,24 +1326,24 @@
         <type>16th</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 90-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 91-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1342,14 +1352,14 @@
         <type>16th</type>
         <accidental>slash-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="33-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 92-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1362,7 +1372,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 93-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1370,7 +1380,7 @@
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <accidental>quarter-flat</accidental>
         <lyric>
           <syllabic>begin</syllabic>
@@ -1378,7 +1388,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 94-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1386,14 +1396,14 @@
         <duration>24</duration>
         <type>16th</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="34-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 95-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1406,7 +1416,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 96-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1416,11 +1426,11 @@
         <lyric>
           <syllabic>single</syllabic>
           <text>ma  </text>
-          <end-line />
+          <end-line/>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 97-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1430,11 +1440,11 @@
         <type>16th</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 98-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1442,11 +1452,11 @@
         <duration>24</duration>
         <type>16th</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 99-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1455,14 +1465,14 @@
         <type>16th</type>
         <accidental>slash-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="35-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 100-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1470,28 +1480,28 @@
         <duration>192</duration>
         <type>half</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="36-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 101-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric name="VOCAL_SECTION">
           <syllabic>single</syllabic>
           <text>Ben </text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 102-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1501,11 +1511,11 @@
         <type>16th</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 103-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1514,28 +1524,28 @@
         <type>quarter</type>
         <lyric>
           <syllabic>single</syllabic>
-          <text>&#226;h </text>
+          <text>âh </text>
         </lyric>
       </note>
     </measure>
     <measure number="37-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 104-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>begin</syllabic>
           <text>e</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 105-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1549,7 +1559,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 106-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1563,9 +1573,9 @@
       </note>
     </measure>
     <measure number="38-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 107-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1574,11 +1584,11 @@
         <type>quarter</type>
         <lyric>
           <syllabic>begin</syllabic>
-          <text>k&#251;</text>
+          <text>kû</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 108-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1587,11 +1597,11 @@
         <type>eighth</type>
         <accidental>slash-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 109-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1600,14 +1610,14 @@
         <type>eighth</type>
         <accidental>slash-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="39-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 110-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1615,11 +1625,11 @@
         <duration>96</duration>
         <type>quarter</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 111-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1627,15 +1637,15 @@
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <accidental>quarter-flat</accidental>
         <lyric>
           <syllabic>end</syllabic>
-          <text>&#351;e </text>
+          <text>şe </text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 112-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1649,9 +1659,9 @@
       </note>
     </measure>
     <measure number="40-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 113-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1665,23 +1675,23 @@
       </note>
     </measure>
     <measure number="41-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 114-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>end</syllabic>
           <text>da </text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 115-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1691,24 +1701,24 @@
         <type>16th</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 116-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 117-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1717,28 +1727,28 @@
         <type>16th</type>
         <accidental>slash-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="42-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 118-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>single</syllabic>
           <text>i </text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 119-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1752,7 +1762,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 120-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1761,14 +1771,14 @@
         <type>quarter</type>
         <lyric>
           <syllabic>single</syllabic>
-          <text>&#252; </text>
+          <text>ü </text>
         </lyric>
       </note>
     </measure>
     <measure number="43-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 121-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1783,7 +1793,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 122-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1793,14 +1803,14 @@
         <lyric>
           <syllabic>end</syllabic>
           <text>ha  </text>
-          <end-line />
+          <end-line/>
         </lyric>
       </note>
     </measure>
     <measure number="44-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 123-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1809,11 +1819,11 @@
         <type>quarter</type>
         <lyric name="VOCAL_SECTION">
           <syllabic>begin</syllabic>
-          <text>A&#287;</text>
+          <text>Ağ</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 124-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1829,23 +1839,23 @@
       </note>
     </measure>
     <measure number="45-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 125-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>begin</syllabic>
           <text>is</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 126-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1860,7 +1870,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 127-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1874,23 +1884,23 @@
       </note>
     </measure>
     <measure number="46-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 128-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>single</syllabic>
-          <text>g&#252;l </text>
+          <text>gül </text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 129-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1900,24 +1910,24 @@
         <type>16th</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 130-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 131-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1926,14 +1936,14 @@
         <type>16th</type>
         <accidental>slash-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="47-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 132-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1946,7 +1956,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 133-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1954,15 +1964,15 @@
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <accidental>quarter-flat</accidental>
         <lyric>
           <syllabic>end</syllabic>
-          <text>&#231;&#305;l</text>
+          <text>çıl</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 134-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1970,14 +1980,14 @@
         <duration>24</duration>
         <type>16th</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="48-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 135-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -1988,28 +1998,28 @@
         <accidental>quarter-flat</accidental>
         <lyric>
           <syllabic>single</syllabic>
-          <text>s&#305;n </text>
+          <text>sın </text>
         </lyric>
       </note>
     </measure>
     <measure number="49-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 136-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
           <syllabic>begin</syllabic>
           <text>gon</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 137-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -2019,24 +2029,24 @@
         <type>16th</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 138-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 139-->
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -2045,14 +2055,14 @@
         <type>16th</type>
         <accidental>slash-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="50-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 140-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -2065,7 +2075,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 141-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -2073,7 +2083,7 @@
         </pitch>
         <duration>72</duration>
         <type>eighth</type>
-        <dot />
+        <dot/>
         <accidental>quarter-flat</accidental>
         <lyric>
           <syllabic>single</syllabic>
@@ -2081,7 +2091,7 @@
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 142-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -2089,14 +2099,14 @@
         <duration>24</duration>
         <type>16th</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="51-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 143-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2105,11 +2115,11 @@
         <type>quarter</type>
         <lyric>
           <syllabic>begin</syllabic>
-          <text>r&#226;</text>
+          <text>râ</text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 144-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2117,11 +2127,11 @@
         <duration>24</duration>
         <type>16th</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 145-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -2131,11 +2141,11 @@
         <type>16th</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 146-->
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -2143,11 +2153,11 @@
         <duration>24</duration>
         <type>16th</type>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
       <note>
-        
+        <!--symbtr_txt_note_index 147-->
         <pitch>
           <step>B</step>
           <alter>-0.5</alter>
@@ -2157,14 +2167,14 @@
         <type>16th</type>
         <accidental>quarter-flat</accidental>
         <lyric>
-          <text />
+          <text></text>
         </lyric>
       </note>
     </measure>
     <measure number="52-0">
-      <attributes />
+      <attributes/>
       <note>
-        
+        <!--symbtr_txt_note_index 148-->
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2173,13 +2183,13 @@
         <type>half</type>
         <lyric>
           <syllabic>end</syllabic>
-          <text>n&#226;  </text>
-          <end-line />
+          <text>nâ  </text>
+          <end-line/>
         </lyric>
       </note>
     </measure>
     <measure number="53-0">
-      <attributes />
+      <attributes/>
     </measure>
   </part>
 </score-partwise>
